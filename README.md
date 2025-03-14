@@ -22,7 +22,7 @@ This Power BI dashboard provides an interactive visualization of **sales perform
 ![Power BI Dashboard](./PowerBI%20Dashboard.png)  
 
 ### **2. Sales Forecasting for Next 15 Days**  
-![Sales Forecasting](./Sales%20Forecasting.png)  
+![Sales Forecasting](./15%20-%20Days%20Sales%20Forecasting.png.png)  
 
 
 ## Tools & Techniques Used  
