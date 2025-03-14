@@ -28,8 +28,12 @@ This Power BI dashboard provides an interactive visualization of **sales perform
 2. Use filters to analyze sales **by year, category, and zone**.  
 3. Explore the **15-day forecast trends** to plan sales strategies effectively.  
 
-## Screenshots
-![Super Store Sales Dashboard](./Sales Forecasting.png)
+### **1. Power BI Dashboard Overview**  
+![Power BI Dashboard](./PowerBI%20Dashboard.png)  
+
+### **2. Sales Forecasting for Next 15 Days**  
+![Sales Forecasting](./Sales%20Forecasting.png)  
+
 
 
 
