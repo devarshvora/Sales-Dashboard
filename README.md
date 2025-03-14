@@ -15,6 +15,16 @@ This Power BI dashboard provides an interactive visualization of **sales perform
 - **15-Day Sales Forecasting:** Using Power BI’s forecasting features and DAX functions to predict sales based on the last **2 years' data**.  
 - **Data Cleaning & Transformation:** Processed and structured raw data before visualization.  
 
+
+## Screenshots  
+
+### **1. Power BI Dashboard Overview**  
+![Power BI Dashboard](./PowerBI%20Dashboard.png)  
+
+### **2. Sales Forecasting for Next 15 Days**  
+![Sales Forecasting](./Sales%20Forecasting.png)  
+
+
 ## Tools & Techniques Used  
 - **Power BI**  
 - **DAX (Data Analysis Expressions)**  
@@ -27,15 +37,6 @@ This Power BI dashboard provides an interactive visualization of **sales perform
 1. Open the Power BI file (.pbix).  
 2. Use filters to analyze sales **by year, category, and zone**.  
 3. Explore the **15-day forecast trends** to plan sales strategies effectively.  
-
-### **1. Power BI Dashboard Overview**  
-![Power BI Dashboard](./PowerBI%20Dashboard.png)  
-
-### **2. Sales Forecasting for Next 15 Days**  
-![Sales Forecasting](./Sales%20Forecasting.png)  
-
-
-
 
 ## License  
 This project is for educational and portfolio purposes. Feel free to use or modify it as needed.  
